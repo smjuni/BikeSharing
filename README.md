@@ -44,13 +44,13 @@ This heatmap supports that Monday through Friday, the peak user times are during
 This worksheet builds on the previous illustration but segregates the data based on gender. We can see that there are more males using the service, but all genders follow the same pattern, with "unknown" making more weekend trips.
 
 
-<img src = "images/User_Trips_By_Gender_Weekday.png"></img>
+<img src = "images/User_Trips_by_Gender_Weekday.png"></img>
 
 ### *User Trips by Gender by Weekday*
 There are more subscribers (regular users) to this model (likely not tourists). Males are utilizing the service the most and the busiest days for subscribers are Monday/Tuesday and Thursday/Friday. Customers (non-members) use the service more on weekends.
 
 ### ***Tableau Story Attachment***
-[link to dashboard](https://public.tableau.com/profile/stephanie.m.juniper#!/vizhome/NYC_CitiBike_Challenge_16124924068370/CheckoutTimesbyGender?publish=yes)
+[link to dashboard](https://public.tableau.com/profile/stephanie.m.juniper#!/vizhome/NYC_CitiBike_Challenge_16124924068370/ProposalStory)
 
 ## **Summary**
 
