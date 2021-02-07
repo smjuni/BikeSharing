@@ -35,6 +35,7 @@ Our primary audience appears to be male; however, all genders use the service mo
 
 <img src = "images/Trips_Weekday_Hour.png"></img>
 
+
 ### *Trips by Weekday per Hour*
 This heatmap supports that Monday through Friday, the peak user times are during work commute hours. Weekends, particularly Saturday, are more steadily busy throughout the afternoon.
 
